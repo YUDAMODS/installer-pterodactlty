@@ -25,4 +25,4 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 ## Contributors ✨
 
 Copyright (C) 2023 - 2024
-- BY [ YUDAMODS ](https://github.com/wndrzzka)
+- BY [ YUDAMODS ](https://github.com/YUDAMODS)
