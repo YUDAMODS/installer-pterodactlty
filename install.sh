@@ -75,7 +75,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "yudamodsk" ]; then
+  if [ "$USER_TOKEN" = "yudamods" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN} Silahkan Tanyakan Kepada YudaMods Jika Token Salah.${NC}"
